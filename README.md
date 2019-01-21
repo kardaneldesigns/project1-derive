@@ -33,20 +33,32 @@ Your responses may be point form, or 1–2 paragraphs about each site as long as
 
 ---
 ## Site 3
-
-
-
+* https://bethelmusic.com/
+* I followed a link from a youtube video i was watching.
+* The design is very current and modern. They have gotten creative with the layout of the main page. There are a bunch of overlapping elements and well designed layouts that are interesting to the eye. They have a "featured" hero image at the top with the latest album that is to be released.
+* The navigation is pretty familiar while still giving interest. There is a hamburger menu on the far right top corner, and the other menu headings are all placed within the right quarter of the top of the screen - they don't span across the whole top. And there is a link back to the home page with the website name in the top left corner. They are easy to use and bring you right to a page you would expect it to bring you to.
+* Interactive components include: color-changing homepage link, buttons linking to buy albums and merchandise, buttons linking to specific information pages, photo slideshows operated by the viewer, hover links on images.
+* It is very useful, interesting and quite beautiful in my opinion. They have layed it out well and I feel like i could play around on it for significant amounts of time and still not fall uninterested.
+* I would maybe add some video elements to give it more movement.
 
 ---
 ## Site 4
-
-
-
+* https://www.lakemount.ca/
+* It was one of my favourited links - accessed it straight from when i opened my browser.
+* The design is fairly current - it has been updated within the last year. It's a take on the typical section by section site with featured images for each page. It uses good use of a theme color. The main page has a background looped video that showcases the highlights of the church to get people interested.
+* The navigation is very easy to use. The home page is easily accessed by clicking the link attached to the logo at the top of the page. The main navigation is within a hamburger menu at the top right corner. Clicking it opens a list of links organized by category to make it easy to find what you are looking for.
+* Interactive components include: header logo link to home page, hover-effect buttons to specific pages, hover-effect images, and a signup window at the bottom.
+* I think it is very useful and user friendly. The bright orange captures your attention right away and the video header really gets you interested right away because you don't often see that on websites - its a newer thing by my knowledge.
+* There are a couple spelling mistakes on some of the pages, so i would make sure those were checked over before publishing.
 
 ---
 ## Site 5
-
-
-
+* http://art.yale.edu/
+* I followed a link from an article because i was curious if it was still as bad as the article said it was. It is. Its just as bad.
+* It is wayyyyy too busy. You don't know what you're looking at because of the quick moving tiled background that takes over the screen. The only information takes up a small box on the left side and you can't really focus long enough to read the information. What makes it worse is that the website is for YALE...
+* The navigation is tucked away on the left side in a white box with what looks like a default font. The links turn the default blue with underline when you hover over them. It's not really user-friendly. 
+* The only interactive parts are the menu headings and a few links under or beside photos promoting events.
+* This site frustrates me and almost angers me to be honest. There doesn't look like there was any design thought put into laying it out to make it a functional website. I do find it humourous that they have a page called "about this site" where they address the many negative comments they have gotten on the site - explaining that the site is like a wiki - open to students to edit and change however and whenever.
+* I think they could achieve the same random, artsy effect with a better organized look that pulls people into the randomness instead of pushing them away.
 
 ---
